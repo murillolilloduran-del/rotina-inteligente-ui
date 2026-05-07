@@ -8,7 +8,8 @@ Ajudar usuários a gerenciar tarefas e compromissos.
 
 ## 🎨 Preview
 
-![Wireframe](wireframe rotina inteligente.jpg)
+![Wireframe](<img width="7100" height="2695" alt="wireframe rotina inteligente" src="https://github.com/user-attachments/assets/5d4f4829-6ef5-4386-8986-fd723a1e8792" />
+)
 
 ## 🛠️ Ferramentas
 
